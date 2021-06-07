@@ -1,0 +1,1069 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.heado {
+    width: 100%;
+    height: 35px;
+    float: left;
+    background-color: white;
+}
+
+.heado1 {
+    float: left;
+    height: 100%;
+    width: 33%;
+    background-color: dodgerblue;
+    border-bottom-right-radius: 60px;
+}
+
+.heado2 {
+    float: left;
+    height: 100%;
+    width: 33%;
+}
+
+.p111 {
+    POSITION: RELATIVE;
+    LEFT: 10%;
+    font-family: 'Indie Flower', cursive;
+}
+
+.car1 {
+    float: left;
+    font-size: 25px;
+    margin: 0% 2% 0 0;
+}
+
+.heado3 {
+    float: right;
+    height: 100%;
+    width: 33%;
+    background-color: #1c1b1b;
+    border-bottom-left-radius: 60px;
+    color: aliceblue;
+}
+
+.aaa {
+    font-size: 120%;
+    width: 80%;
+    float: left;
+    padding: .3% 0 1% 16%;
+    color: white;
+}
+
+.aa1 {
+    padding: 0 1% 0 1%;
+    cursor: pointer;
+    transition: 1.5s;
+}
+
+.aa1:hover {
+    padding: 1% 2% 1% 2%;
+}
+
+.aa2 {
+    float: left;
+    font-size: 100%;
+    padding: 1% 2% 2.1% 2%;
+    margin: 0 2% 0 8%;
+    color: #cbcbcb;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.aa2:hover {
+    background-color: #585858;
+}
+
+.span1 {
+    color: #585858;
+    transition: 1s;
+}
+
+.aa2:hover .span1 {
+    color: white;
+}
+
+.dropdown {
+    list-style: none;
+}
+
+.as {
+    color: white;
+    transition: 1.3s;
+}
+
+.as:hover {
+    color: #c3c0c0;
+    background-color: #e7e8e8;
+    color: black;
+}
+
+.nav-link {
+    display: inline-block;
+    padding: 1% 3%;
+}
+
+.element.style {
+    transform: translate3d(120px, 33px, 0px);
+}
+
+.drop {
+    position: absolute;
+    display: inline-block;
+    right: 15px;
+    top: 1px;
+}
+
+.btn-secondary {
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+
+.btn {
+    padding: .2% .2%;
+}
+
+.navs {
+    float: left;
+    width: 100%;
+    height: 65px;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    float: left;
+    width: 90%;
+    height: 94%;
+    margin: 0 0%;
+    /*    overflow: hidden;*/
+}
+
+.logo {
+    float: left;
+    margin: 0 0% 2.5% 3%;
+    font-size: 160%;
+    font-family: 'Spicy Rice', cursive;
+    color: #641c1c;
+}
+
+.ul1 {
+    float: left;
+    transition: 2s;
+    width: 55%;
+    margin-right: -10%;
+}
+
+#a {
+    float: left;
+    font-size: 120%;
+    cursor: pointer;
+    margin: 0 2% 2% 0;
+    padding: 0% 0% 3% 2%;
+}
+
+.a11 {
+    width: 0;
+    height: 7%;
+    background-color: black;
+    position: absolute;
+    top: 62%;
+    left: 55.3%;
+    transition: 2.5s;
+}
+
+.a1:hover~.a11 {
+    width: 5.3%;
+}
+
+.a22 {
+    width: 0;
+    height: 7%;
+    background-color: black;
+    position: absolute;
+    top: 62%;
+    left: 61.7%;
+    transition: 2.5s;
+}
+
+.a2:hover~.a22 {
+    width: 5.5%;
+}
+
+.a33 {
+    width: 0;
+    height: 7%;
+    background-color: black;
+    position: absolute;
+    top: 62%;
+    left: 68.5%;
+    transition: 2.5s;
+}
+
+.a3:hover~.a33 {
+    width: 6.2%;
+}
+
+.a44 {
+    width: 0;
+    height: 7%;
+    background-color: black;
+    position: absolute;
+    top: 62%;
+    left: 76%;
+    transition: 2.5s;
+}
+
+.a4:hover~.a44 {
+    width: 6.5%;
+}
+
+.a55 {
+    width: 0;
+    height: 7%;
+    background-color: black;
+    position: absolute;
+    top: 62%;
+    left: 83.9%;
+    transition: 2.5s;
+}
+
+.a5:hover~.a55 {
+    width: 6.5%;
+}
+
+.a66 {
+    width: 0;
+    height: 7%;
+    background-color: black;
+    position: absolute;
+    top: 62%;
+    left: 92%;
+    transition: 2.5s
+}
+
+.a6:hover~.a66 {
+    width: 8.1%;
+}
+
+.a77 {
+    width: 0;
+    height: 7%;
+    background-color: black;
+    position: absolute;
+    top: 62%;
+    left: 101.2%;
+    transition: 2.5s
+}
+
+.a7:hover~.a77 {
+    width: 5%;
+}
+
+.clear {
+    clear: both;
+}
+
+.head {
+    width: 100%;
+    height: 300px;
+    float: left;
+    background-color: white;
+}
+
+.heade {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    background-image: url();
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 0px 5px 16px 7px #150d0d;
+    margin: auto;
+}
+
+.mem {
+    width: 100%;
+    height: 450px;
+    background-color: rgba(155, 148, 148, .9);
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    margin: 1% 0;
+    align-items: flex-start;
+    padding: 1%;
+}
+
+.mem1 {
+    width: 29%;
+    height: 65%;
+    background-color: dimgray;
+    border-radius: 10px;
+    filter: brightness(25%);
+    cursor: pointer;
+    transition: 1s;
+    margin: auto 0;
+    display: flex;
+    background-image: url(../img1/nike.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.mem2 {
+    width: 29%;
+    height: 65%;
+    background-color: dimgray;
+    border-radius: 10px;
+    filter: brightness(25%);
+    cursor: pointer;
+    transition: 1s;
+    margin: auto 0;
+    display: flex;
+    background-image: url(../img1/huawei.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.mem3 {
+    width: 29%;
+    height: 65%;
+    background-color: dimgray;
+    border-radius: 10px;
+    filter: brightness(25%);
+    cursor: pointer;
+    transition: 1s;
+    margin: auto 0;
+    display: flex;
+    background-image: url(../img1/we.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.img1 {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: absolute;
+    top: -17%;
+    left: 1%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img2 {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: absolute;
+    top: -17%;
+    left: 1%;
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img3 {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: absolute;
+    top: -22%;
+    left: 1%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mem1:hover,
+.mem2:hover,
+.mem3:hover {
+    filter: brightness(100%);
+}
+
+
+/* h2 {
+    margin: auto;
+    line-height: 0 color: white;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 150%;
+} */
+
+@media(max-width:700px) {
+    .mem {
+        display: block;
+    }
+    .mem1 {
+        width: 100%;
+        height: 30%;
+        margin: 5px 0 15px 0;
+    }
+    .mem2 {
+        width: 100%;
+        height: 30%;
+        margin: 0px 0 15px 0;
+    }
+    .mem3 {
+        width: 100%;
+        height: 30%;
+        margin: 0px 0 15px 0;
+    }
+}
+
+.cards {
+    width: 100%;
+    height: 440px;
+    box-shadow: 0px 1px 10px 0px gray;
+    display: flex;
+    align-items: flex-end;
+    padding: 0 0 2% 0;
+}
+
+.card1 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px 2px;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+    position: absolute;
+}
+
+.imgcard {
+    width: 100%;
+    height: 40%;
+    background-image: url(../img1/part27.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    z-index: 1;
+}
+
+.card2 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 0px 0px 5px 5px;
+    z-index: 2;
+    left: 4%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card3 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 3;
+    left: 8%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card4 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 4;
+    left: 12%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card5 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 5;
+    left: 16%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card6 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 6;
+    left: 20%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card7 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 7;
+    left: 24%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card8 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 8;
+    left: 28%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card9 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 9;
+    left: 32%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card10 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 10;
+    left: 36%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card11 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 11;
+    left: 40%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card12 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 12;
+    left: 44%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card13 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 13;
+    left: 48%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card14 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 14;
+    left: 52%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card15 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 15;
+    left: 56%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card16 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 16;
+    left: 60%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card17 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 17;
+    left: 64%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card18 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 18;
+    left: 68%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card19 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 19;
+    left: 72%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card20 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 20;
+    left: 75%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card21 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 21;
+    left: 79%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card22 {
+    width: 17%;
+    height: 50%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 1px 1px 5px 5px;
+    z-index: 22;
+    left: 82.5%;
+    background-color: white;
+    filter: brightness(.3);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.card1:hover,
+.card2:hover,
+.card3:hover,
+.card4:hover,
+.card5:hover,
+.card6:hover,
+.card7:hover,
+.card8:hover,
+.card9:hover,
+.card10:hover,
+.card11:hover,
+.card12:hover,
+.card13:hover,
+.card14:hover,
+.card15:hover,
+.card16:hover,
+.card17:hover,
+.card18:hover,
+.card19:hover,
+.card20:hover,
+.card21:hover,
+.card22:hover {
+    z-index: 50;
+    filter: brightness(1);
+    transform: scale(1.01);
+}
+
+.frames {
+    widows: 100%;
+    height: 1500px;
+    padding: 1%;
+}
+
+.frame1 {
+    width: 100%;
+    height: 25%;
+    box-shadow: 0px 0px 20px 0px;
+    border-radius: 15px;
+    margin-bottom: .5%;
+    background-color: white;
+}
+
+.img11 {
+    width: 30%;
+    height: 70%;
+    position: relative;
+    top: 10%;
+    left: 5%;
+    border-bottom-left-radius: 90px;
+    border-top-right-radius: 90px;
+    float: left;
+    background-image: url(../img1/creem.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: .4;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.para1 {
+    width: 50%;
+    height: 80%;
+    position: relative;
+    float: left;
+    top: 10%;
+    left: 10%;
+    border-radius: 30px;
+    text-align: center;
+    overflow: hidden;
+}
+
+p11 {
+    font-size: 140%;
+    position: relative;
+    top: 10%;
+    font-family: 'Pacifico', cursive;
+}
+
+.frame2 {
+    width: 100%;
+    height: 25%;
+    background-color: rgba(121, 121, 121, .2);
+    box-shadow: 0px 0px 20px 0px;
+    border-radius: 15px;
+    margin-bottom: .5%;
+}
+
+.img12 {
+    width: 30%;
+    height: 80%;
+    position: relative;
+    top: 10%;
+    right: 5%;
+    border-bottom-right-radius: 90px;
+    border-top-left-radius: 90px;
+    float: right;
+    background-image: url(../img1/uber.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: .4;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.para2 {
+    width: 50%;
+    height: 70%;
+    position: relative;
+    float: left;
+    top: 10%;
+    left: 10%;
+    border-radius: 30px;
+    text-align: center;
+    overflow: hidden;
+}
+
+p12 {
+    font-size: 160%;
+    position: relative;
+    top: 10%;
+    font-family: 'Pacifico', cursive;
+}
+
+.frame3 {
+    width: 100%;
+    height: 25%;
+    background-color: rgba(121, 121, 120, .5);
+    box-shadow: 0px 0px 20px 0px;
+    border-radius: 15px;
+    margin-bottom: .5%;
+}
+
+.img13 {
+    width: 30%;
+    height: 80%;
+    position: relative;
+    top: 10%;
+    left: 5%;
+    border-bottom-left-radius: 90px;
+    border-top-right-radius: 90px;
+    float: left;
+    background-image: url(../img1/pepsi.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: .4;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.para3 {
+    width: 50%;
+    height: 70%;
+    position: relative;
+    float: left;
+    top: 10%;
+    left: 10%;
+    border-radius: 30px;
+    text-align: center;
+    overflow: hidden;
+}
+
+p13 {
+    font-size: 122%;
+    position: relative;
+    top: 10%;
+    font-family: 'Pacifico', cursive;
+}
+
+.frame4 {
+    width: 100%;
+    height: 25%;
+    background-color: rgba(121, 121, 121, .9);
+    box-shadow: 0px 0px 20px 0px;
+    border-radius: 15px;
+}
+
+.img14 {
+    width: 30%;
+    height: 80%;
+    position: relative;
+    top: 10%;
+    right: 5%;
+    border-bottom-right-radius: 90px;
+    border-top-left-radius: 90px;
+    float: right;
+    background-image: url(../img1/vode.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: .4;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.para4 {
+    width: 50%;
+    height: 70%;
+    position: relative;
+    float: left;
+    top: 10%;
+    left: 10%;
+    border-radius: 30px;
+    text-align: center;
+    overflow: hidden;
+}
+
+p14 {
+    font-size: 150%;
+    position: relative;
+    top: 10%;
+    font-family: 'Pacifico', cursive;
+}
+
+.img11:hover,
+.img12:hover,
+.img13:hover,
+.img14:hover {
+    opacity: 1;
+}
+
+.contact-form {
+    margin-top: 50px;
+    background-image: url(../img1/part23.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.overlay-form {
+    top: 0;
+    left: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 10;
+}
+
+.form-container {
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    z-index: 20;
+}
+
+.contact-form h2 {
+    width: 100%;
+    font-size: 50px;
+    margin-bottom: 10px;
+    padding: 39px 0;
+    font-family: 'Yeon Sung', cursive;
+}
+
+.text-box {
+    width: 100%;
+    /*    overflow: hidden;*/
+    font-size: 25px;
+    margin: 20px 0;
+    padding: 33px 0;
+    border-bottom: 1px solid #4caf50;
+}
+
+.text-box i {
+    width: 26px;
+    float: left;
+    text-align: center;
+    font-size: 24px;
+    margin-right: 9px;
+}
+
+.text-box input {
+    border: none;
+    outline: none;
+    background: none;
+    color: #fff;
+    font-size: 20px;
+    width: 80%;
+    float: left;
+    font-family: 'Yeon Sung', cursive;
+}
+
+.btn1 {
+    width: 99%;
+    background: none;
+    color: #fff;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 12px 0;
+    font-weight: bolder;
+    font-family: 'Yeon Sung', cursive;
+    transition: .7s;
+}
+
+.btn1:hover {
+    padding: 2.5% 4% 2.5% 4%;
+    background: #404040;
+}
+
+.card-img-top {
+    box-shadow: 0px -1px 10px 3px;
+    cursor: pointer;
+}
+
+.card-body {
+    background-color: rgba(88, 88, 88, .2);
+    cursor: pointer;
+}
+
+.card-footer {
+    background-color: rgba(88, 88, 88, .5);
+    box-shadow: 0px 0px 8px 1px;
+    cursor: pointer;
+}
